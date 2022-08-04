@@ -254,7 +254,7 @@
               "rightColumn": 51,
               "widgetId": "8xb1dwjhls",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-              "defaultTab": "{{appsmith.store.tabValue ?? \"Login\"}}",
+              "defaultTab": "{{appsmith.store.tabValue}}",
               "shouldShowTabs": true,
               "tabsObj": {
                 "tab1": {
